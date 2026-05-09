@@ -1,4 +1,0 @@
-interface:
-  display_name: "Company Security Code Review"
-  short_description: "Review code against company security requirements"
-  default_prompt: "Use $company-security-code-review to review this repository against the company security checklist and SS-006, then return findings and a compliance matrix."
