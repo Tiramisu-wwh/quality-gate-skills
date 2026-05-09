@@ -1,0 +1,4 @@
+interface:
+  display_name: "Test Plan XMind Generator"
+  short_description: "Generate QA test plans and XMind cause maps."
+  default_prompt: "Use $test-plan-xmind-generator to build a test plan and native XMind cause map from PRD, Figma Make, technical solution, and API docs."
